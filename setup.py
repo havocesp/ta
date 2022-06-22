@@ -12,7 +12,7 @@ setup(
     maintainer='Dario Lopez Padial (Bukosabino)',
     maintainer_email='Bukosabino@gmail.com',
     install_requires=[
-        'numpy==1.16.2',
+        'numpy==1.22.0',
         'pandas==0.24.2',
         'scikit-learn==0.20.3'
     ],
