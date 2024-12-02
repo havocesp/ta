@@ -13,7 +13,7 @@ setup(
     maintainer="Dario Lopez Padial (Bukosabino)",
     maintainer_email="Bukosabino@gmail.com",
     install_requires=[
-        "numpy",
+        "numpy==1.22.0",
         "pandas",
     ],
     download_url="https://github.com/bukosabino/ta/tarball/0.11.0",
